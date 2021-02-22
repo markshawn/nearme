@@ -1,4 +1,4 @@
-import logo from "./map.GIF";
+import logo from "./austin.gif";
 import "./App.css";
 
 function App() {
