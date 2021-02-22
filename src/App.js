@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./map.GIF";
 import "./App.css";
 
 function App() {
@@ -6,14 +6,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>This is the 'Near Me' App!</p>
+
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://main.dipbmsxn0sc0v.amplifyapp.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <p>This is the 'Near Me' App!</p>
         </a>
       </header>
     </div>
