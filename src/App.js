@@ -1,6 +1,8 @@
 import logo from "./austin.gif";
 import "./App.css";
 
+const app_name = "This is my 'Near Me' App!";
+
 function App() {
   return (
     <div className="App">
@@ -13,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <p>This is the 'Near Me' App!</p>
+          <p>{app_name}</p>
         </a>
       </header>
     </div>
